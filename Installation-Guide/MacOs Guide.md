@@ -1,0 +1,1 @@
+### For installing on mac Os refer to the guide in this [link](https://flutter.dev/docs/get-started/install/macos)
