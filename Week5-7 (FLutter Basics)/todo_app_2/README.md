@@ -1,5 +1,7 @@
 # todo_app_2
 
+# Flutter project for Mobile dev class @ Univelcity
+
 A new Flutter project.
 
 ## Getting Started
